@@ -10,7 +10,7 @@ Baileys WhatsApp API adalah library berbasis Node.js untuk berkomunikasi dengan 
 Dikembangkan dengan performa tinggi untuk kebutuhan bot, otomatisasi pesan, dan integrasi aplikasi WhatsApp lainnya.
 
 ## 📌 Tentang Proyek Ini
-Repositori ini dikembangkan dan dikelola oleh **kagenou** bersama para kontributor open-source lainnya.  
+Repositori ini dikembangkan dan dikelola oleh **Handi Dev** bersama para kontributor open-source lainnya.  
 Dukungan dan kontribusi dari komunitas sangat diapresiasi! 💖  
 
 ---
